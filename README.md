@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently a student at **[SchoolOfCode](https://www.schoolofcode.co.uk)**
 
-- 🌱 I’m currently learning **Front end and back end.**
+- 🌱 I’m currently learning **Front end and Back-end.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to work  **in the tech industry**
 
 
 - 📫 How to reach me **nicholasgomis@icloud.com**
