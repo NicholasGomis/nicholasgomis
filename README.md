@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nicholasgomis@icloud.com**
 
-- ⚡ Fun fact **I play football and do meditation.**
+- ⚡ Fun fact **I play football and love surfing.**
 
 ## 🚀 Languages and Tools:
 
