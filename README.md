@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Student at **[SchoolOfCode](https://www.schoolofcode.co.uk)**
+- 🔭  Currently Student at **[SchoolOfCode](https://www.schoolofcode.co.uk)**
 
 - 🌱 Learning **Front-end and Back-end.**
 
