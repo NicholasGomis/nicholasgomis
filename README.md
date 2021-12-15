@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a student at **[SchoolOfCode](https://www.schoolofcode.co.uk)**
 
-- 🌱 I’m currently learning ** Front end and back end.**
+- 🌱 I’m currently learning **Front end and back end.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
