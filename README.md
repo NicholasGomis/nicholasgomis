@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **NicholasGomis/nicholasgomis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Front and Backend 
 - 📫 How to reach me: nicholasgomis@icloud.com
 
--->
+
 
 ![github stats ](https://github-readme-stats.vercel.app/api?username=nicholasgomis&count_private=true&show_icons=true&theme=radical)
 ![github stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgomis&show_icons=true&theme=radical)
