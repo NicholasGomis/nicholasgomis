@@ -10,7 +10,7 @@
 
 - 🌱 Learning **Front-end and Back-end.**
 
-- 👯 Looking to work  **in the tech industry**
+- 👯 Get involve in **the tech industry**
 
 
 - 📫 How to reach me **nicholasgomis@icloud.com**
