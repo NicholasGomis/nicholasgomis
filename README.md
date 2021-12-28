@@ -46,6 +46,7 @@
   
   <br/>
     <a href="https://github.com/nicholasgomis/github-readme-stats"><img alt="Nicholas Gomis Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicholasgomis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <br/>
   <a href="https://github.com/nicholasgomis/github-readme-stats"><img alt="Nicholas Gomis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgomis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <br/>
 
