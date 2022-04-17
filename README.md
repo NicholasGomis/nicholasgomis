@@ -4,18 +4,6 @@
 <p align="center">  I'm passionate in building apps and exploring new technologies. In my spare time I like travelling, painting and gaming. Always keen to learn new innovative things and embark in new adventures!</p>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭  Currently training at **[SchoolOfCode](https://www.schoolofcode.co.uk)**
-
-- 🌱 Learning **Front-end and Back-end.**
-
-- 👯 Get involve in **the tech industry**
-
-
-- 📫 How to reach me **nicholasgomis@icloud.com**
-
-- ⚡ Fun fact **I play football and love surfing.**
 
 ## 🚀 Languages and Tools:
 
