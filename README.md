@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/p6HSpdq/Clean-Shot-2022-04-17-at-15-24-12-2x.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/p6HSpdq/Clean-Shot-2022-04-17-at-15-24-12-2x.png" height="175px"/></a> -->
 
-<h1 align="center">Hello World <img src="https://i.ibb.co/p6HSpdq/Clean-Shot-2022-04-17-at-15-24-12-2x.png" width="300px"> I am Nick</h1>
+<h1 align="center">Hello World <img src="https://i.ibb.co/p6HSpdq/Clean-Shot-2022-04-17-at-15-24-12-2x.png" width="400px"> I am Nick</h1>
 <h3 align="center"> A tech geek from Italy.</h3>
 
 
