@@ -1,4 +1,4 @@
-<a href="#"><img width="1400" height="555px" src="https://i.ibb.co/j3mJ95v/Clean-Shot-2022-04-17-at-15-40-06-2x.png" /></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/j3mJ95v/Clean-Shot-2022-04-17-at-15-40-06-2x.png" height="105px"/></a>
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"" width="55px"> I am Nick</h1>
 <p align="center">  I'm passionate in building apps and exploring new technologies. In my spare time I like travelling, painting and gaming. Always keen to learn new innovative things and embark in new adventures!</p>
