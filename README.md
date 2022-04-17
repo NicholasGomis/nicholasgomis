@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/p6HSpdq/Clean-Shot-2022-04-17-at-15-24-12-2x.png" height="355px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/j3mJ95v/Clean-Shot-2022-04-17-at-15-40-06-2x.png" height="355px"/></a>
 
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"" width="30px"> I am Nick</h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"" width="55px"> I am Nick</h1>
 <h3 align="center"> A tech geek from Italy.</h3>
 
 
