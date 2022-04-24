@@ -3,7 +3,7 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"" width="55px"> I am Nick</h1>
 <p align="center">  I am passionate in building apps and exploring new technologies. In my spare time I like travelling, painting and gaming. Always keen to learn new innovative things and embark in new adventures!</p>
 
-
+<img align="right" alt="Coding" width="400" src="https://wheninalbania.com/wp-content/uploads/2021/02/working.gif" >
 
 ## 🚀 Languages and Tools:
 
