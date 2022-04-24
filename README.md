@@ -49,6 +49,14 @@
 
 <br/>
 <br/>
+    
+  <details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Nicholas's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgomis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+</details>
+
 
 ## 🔗 Connect with me:
 <p align="left">
