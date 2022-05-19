@@ -4,6 +4,18 @@
 <p align="center">  I am passionate in building apps and exploring new technologies. In my spare time I like travelling, painting and gaming. Always keen to learn new innovative things and embark in new adventures!</p>
 
 <br/>
+  
+  <div id="contact" align="center">
+  <a href="https://www.linkedin.com/in/nicholasgomis/">
+    <img src="https://img.shields.io/badge/LinkedIn-007576?style=for-the-badge&logo=face&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:nicholasgomis@icloud.com">
+    <img src="https://img.shields.io/badge/Email-DAE34A?style=for-the-badge&logo=face&logoColor=red" alt="Email Badge"/>
+  </a>
+  <a href="https://portfolio-two-lake-58.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FE6302?style=for-the-badge&logo=face&logoColor=blue" alt="portfolio Badge"/>
+  </a>
+</div>
 
 ## 🚀 Languages and Tools:
 
