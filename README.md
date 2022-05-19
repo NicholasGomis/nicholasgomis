@@ -4,8 +4,8 @@
 <p align="center">  I am passionate in building apps and exploring new technologies. In my spare time I like travelling, painting and gaming. Always keen to learn new innovative things and embark in new adventures!</p>
 
 
-   
-   <br/>
+<br/>
+<br/>
 
 ## 🚀 Languages and Tools:
 
