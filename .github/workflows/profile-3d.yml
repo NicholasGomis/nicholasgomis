@@ -19,7 +19,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name NicholasGomis
-          git config user.email someone.ana13@gmail.com
+          git config user.email nicholasgomis@icloud.com
           git add -A .
           git commit -m "Personal 3d Contributions images updated"
           git push
