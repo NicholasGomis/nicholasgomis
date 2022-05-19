@@ -59,19 +59,14 @@
 <br/>
 
 ## 📊 My Github Stats
-
-
-
-
+<br/>
+<br/>
+<br/>
 ![](./profile-3d-contrib/profile-night-green.svg)
   
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-<br/>
-<br/>
 
-
+<br/>
 <br/>
 <br/>
     
