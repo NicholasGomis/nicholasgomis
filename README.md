@@ -60,28 +60,17 @@
 
 ## 📊 My Github Stats
 
-  <p align="center">
-    <!-- <a href="https://github.com/nicholasgomis/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicholas Gomis streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasgomis&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a> -->
- 
-    <!-- <a href="https://github.com/nicholasgomis/github-readme-stats"><img alt="Nicholas Gomis Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicholasgomis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-      <br/>
-  <!-- <a href="https://github.com/nicholasgomis/github-readme-stats"><img alt="Nicholas Gomis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgomis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
-
- 
-   
-<!-- <a href="https://github.com/nicholasgomis/github-readme-stats"><img alt="Nicholas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgomis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- -->
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
   
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-<!-- <a href="https://github.com/nicholasgomis/github-readme-activity-graph"><img alt="Nicholas Gomis Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nicholasgomis&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
