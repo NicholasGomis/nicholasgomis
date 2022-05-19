@@ -76,6 +76,9 @@
    
 <!-- <a href="https://github.com/nicholasgomis/github-readme-stats"><img alt="Nicholas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgomis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  -->
+
+
+ ![](./profile-3d-contrib/profile-night-green.svg)
 <br/>
 <br/>
 
