@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
  <a href="https://twitter.com/nicholasgomis" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=whiteko-fi&logoColor=white" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=whitefor-the-badge&logo=twitter&logoColor=whiteko-fi&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://portfolio-two-lake-58.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
