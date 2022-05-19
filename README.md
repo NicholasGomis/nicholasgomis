@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://portfolio-two-lake-58.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/ortfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
   </a>
   <a href="mailto:nicholasgomis@icloud.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
