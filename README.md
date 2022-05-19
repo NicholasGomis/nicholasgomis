@@ -86,8 +86,4 @@
 
 
 
-## ❤ Views 
-<img src="https://komarev.com/ghpvc/?username=nicholasgomis">
-
-</a>
 
