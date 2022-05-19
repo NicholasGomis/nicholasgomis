@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
   </a>
   <a href="mailto:nicholasgomis@icloud.com">
-    <img src="https://img.shields.io/badge/Email-DAE34A?style=for-the-badge&logo=face&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
   
