@@ -6,11 +6,21 @@
 <br/>
   
 
-[![portfolio align="center"](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-two-lake-58.vercel.app)
-[![linkedin align="center"](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasgomis/)
+[![portfolio align="center"]()](https://portfolio-two-lake-58.vercel.app)
+[![linkedin align="center"]()](https://www.linkedin.com/in/nicholasgomis/)
 
 
-
+<div id="contact" align="center">
+  <a href="https://www.linkedin.com/in/nicholasgomis/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nicholasgomis@icloud.com">
+    <img src="https://img.shields.io/badge/Email-DAE34A?style=for-the-badge&logo=face&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-two-lake-58.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
+  </a>
+</div>
   
 ## 🚀 Languages and Tools:
 
