@@ -84,6 +84,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <a href="https://github.com/nicholasgomis/github-readme-activity-graph"><img alt="Nicholas Gomis Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nicholasgomis&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
