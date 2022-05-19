@@ -39,7 +39,6 @@
 <img align="left" alt="dribbble" src ="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 <img align="left" alt="figma" src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
-
 </p>
 
 ## 📊 My Github Stats
