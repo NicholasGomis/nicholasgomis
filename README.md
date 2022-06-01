@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/Czs6QGJ/Clean-Shot-2022-05-19-at-20-46-27-2x.png" height="105px"/></a>
 
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"" width="35px"> I am Nick</h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"" width="25px"> I am Nick</h1>
 <p align="center">  I am passionate in building apps and exploring new technologies. In my spare time I like travelling, painting and gaming. Always keen to learn new innovative things and embark in new adventures!</p>
 
 <br/>
